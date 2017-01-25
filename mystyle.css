@@ -1,0 +1,12 @@
+h1 { 
+    text-align: center;
+    color:red; 
+    font-family:Arial;
+}
+
+p { 
+    text-align: center;
+    color:black; 
+    font-family:Arial; 
+    font-weight:bold; 
+}
