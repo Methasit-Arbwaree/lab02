@@ -1,12 +1,30 @@
 h1 { 
     text-align: center;
-    color:red; 
-    font-family:Arial;
+    color: red; 
+    font-family: Arial;
 }
 
 p { 
     text-align: center;
-    color:black; 
-    font-family:Arial; 
-    font-weight:bold; 
+    color: black; 
+    font-family: Arial; 
+    font-weight: bold; 
 }
+
+table, th, td, {
+    background: #F0F0F0;
+    text-align: center;
+    border: 1px solid white;
+    align-self: center;
+}
+
+th {
+    padding: 8.5px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+td {
+     text-align: center;
+     background-color: #C0D0FF;
+ }
