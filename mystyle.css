@@ -49,19 +49,19 @@ td {
 
  div.frame1 {
      border: 1px solid black;
-     padding: 216px;
+     padding: 194px;
  }
 
  div.frame2 {
-     padding: 42px;
+     padding: 38px;
  }
 
  div.frame3{
-     padding: 56px;
+     padding: 50px;
  }
 
  div.frame4 {
-     padding: 46px;
+     padding: 36px;
  }
 
  div.color {
@@ -70,6 +70,11 @@ td {
 
  div.color2 {
      background-color: black;
+ }
+
+ img {
+    margin: auto auto;
+    display: block;
  }
 
  div.img {
@@ -137,7 +142,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-image: url("img/uxtld.jpg");
 }
 
 li {
@@ -157,5 +162,5 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #111;
+    background-color: #999997;
 }
